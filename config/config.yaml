@@ -1,0 +1,12 @@
+# CREAT NUMT MASKED REFERENCE AND USE THAT
+samples:
+  gex_raw_dir: "NA"
+  atac_raw_dir: "/nobackup/proj/rockhpc_spnmmd/raw_sequencing_runs/2026_049_Sarah_Pickett/260923_A00471_0567_BHTJ5GDRX7"
+  gex_csv: "N/A"
+  atac_csv: "/nobackup/proj/rockhpc_spnmmd/LucasCortes/mtscATACseqPipeline/SampleSheet.csv"
+
+refdata: "/nobackup/proj/rockhpc_spnmmd/LucasCortes/Programs/masked_ref/GRCh38"
+pipeline: "atac"
+variant:
+  position: 3243
+  base: G
