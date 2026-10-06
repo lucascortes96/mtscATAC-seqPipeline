@@ -10,3 +10,6 @@ pipeline: "atac"
 variant:
   position: 3243
   base: G
+
+output:
+  outdir: "/nobackup/proj/rockhpc_spnmmd/LucasCortes/mtscATAC-seq/2026_049_Sarah_Pickett"
